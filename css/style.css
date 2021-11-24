@@ -4,6 +4,9 @@
     box-sizing:border-box;
     text-decoration: none;
 }
+html{
+    font-size: 65.5%;
+}
 
 nav{
     width: 100vw;
@@ -12,4 +15,5 @@ nav{
 }
 h2{
     color:lightblue;
+    font-size: 2rem;
 }
